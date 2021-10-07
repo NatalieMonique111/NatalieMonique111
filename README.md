@@ -4,7 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-NatalieMonique111-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nataliebencomo/)](https://www.linkedin.com/in/nataliebencomo/)
 
-
 > Tools, languages, and other things that I like to work with.
 
 <table>
@@ -27,37 +26,20 @@
       </a>
       <br>Bootstrap
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
+      <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
   </tr>
+ 
 </table>
-
-<h2 align="left">Coding Activity</h2>
-
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-
 
 <!--
 **NatalieMonique111/NatalieMonique111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
