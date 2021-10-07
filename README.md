@@ -9,6 +9,10 @@
 
 <table>
   <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
@@ -23,22 +27,19 @@
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-       
+      <a href="#macropower-tech">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
       <br>MySQL
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
   </tr>
 </table>
 
