@@ -1,5 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Natalie</h1>
-<h3 align="left"> Greetings! I am a software developer apprentice. I love to code. I have a passion for learning and technology.</h3>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Natalie.</h1>
+<h3 align="left"> I am a software developer apprentice. I love to code. I have a passion for learning and technology.</h3>
 <h4 align="left">#Latinx_in_Tech.</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-NatalieMonique111-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nataliebencomo/)](https://www.linkedin.com/in/nataliebencomo/)
