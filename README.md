@@ -44,6 +44,42 @@
       </a>
       <br>Postgresql
     </td>
+     <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/github.png" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/html.webp" width="48" height="48" alt="Html" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/css.png" width="48" height="48" alt="Css" />
+      </a>
+      <br>CSS
+      <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/sass.png" width="48" height="48" alt="Scss" />
+      </a>
+      <br>SCSS
+    </td>
+     <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/heroku.svg" width="48" height="48" alt="Heroku" />
+      </a>
+      <br>Heroku
+    </td>
   </tr>
  
 </table>
