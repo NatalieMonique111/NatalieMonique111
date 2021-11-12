@@ -47,13 +47,13 @@
      <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/git.svg" width="60" height="48" alt="Git" />
+        <img src="./img/git.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/github.png" width="60" height="48" alt="GitHub" />
+        <img src="./img/github.png" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
@@ -70,9 +70,9 @@
       <br>CSS
       <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass.png" width="48" height="48" alt="Scss" />
+        <img src="./img/sass.png" width="48" height="48" alt="Sass" />
       </a>
-      <br>SCSS
+      <br>SaSS
     </td>
      <td align="center"  width="96">
       <a href="#macropower-tech">
