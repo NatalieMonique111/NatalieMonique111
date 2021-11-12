@@ -1,3 +1,5 @@
+
+
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Natalie.</h1>
 <h3 align="left"> I am a software developer apprentice. I love to code. I have a passion for learning and technology.</h3>
 <h4 align="left">#Latinx_in_Tech.</h4>
@@ -44,7 +46,9 @@
 
 
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieMonique111&hide=TeX&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
   
   <a href="https://pugjs.org"><img src="https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-128.svg" height="100" align="left"></a><p>
 
