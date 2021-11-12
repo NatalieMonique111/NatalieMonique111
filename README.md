@@ -41,7 +41,7 @@
       <a href="#macropower-tech">
         <img src="./img/postgresql-vertical.svg" width="48" height="48" alt="PSQL" />
       </a>
-      <br>MySQL
+      <br>Postgresql
     </td>
   </tr>
  
