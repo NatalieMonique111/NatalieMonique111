@@ -47,13 +47,13 @@
      <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/git.svg" width="50" height="48" alt="Git" />
+        <img src="./img/git.svg" width="60" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/github.png" width="48" height="48" alt="GitHub" />
+        <img src="./img/github.png" width="60" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
@@ -76,7 +76,7 @@
     </td>
      <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/heroku.svg" width="48" height="48" alt="Heroku" />
+        <img src="./img/heroku.png" width="48" height="48" alt="Heroku" />
       </a>
       <br>Heroku
     </td>
