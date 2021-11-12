@@ -6,6 +6,8 @@
 
 > Tools, languages, and other things that I like to work with.
 
+<a href="https://pugjs.org"><img src="https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-128.svg" height="100" align="left"></a><p>
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -41,7 +43,7 @@
  
 </table>
 
-<a href="https://pugjs.org"><img src="https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-128.svg" height="100" align="left"></a><p>
+
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieMonique111&hide=TeX&layout=compact)
 
