@@ -1,4 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Natalie.</h1>
+<img src="./img/globe.gif" width="30px"><h1 align="left" id="macropower-title">Hello World! I'm Natalie.</h1>
+
 <h3 align="left"> I am a software developer apprentice. I love to code. I have a passion for learning and technology.</h3>
 <h4 align="left">#Latinx_in_Tech.</h4>
 
