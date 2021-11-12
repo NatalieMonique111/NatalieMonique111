@@ -83,6 +83,7 @@
   </tr>
  
 </table>
+ <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieMonique111&layout=compact&theme=cobalt&hide_border=true" />
 
