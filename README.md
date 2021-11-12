@@ -22,9 +22,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/nodejs-2.svg" width="48" height="48" alt="NodeJS" />
       </a>
-      <br>Bootstrap
+      <br>Node
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
