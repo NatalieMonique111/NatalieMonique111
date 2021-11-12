@@ -47,7 +47,7 @@
      <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/git.svg" width="48" height="48" alt="Git" />
+        <img src="./img/git.svg" width="50" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
