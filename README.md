@@ -37,6 +37,12 @@
       </a>
       <br>MySQL
     </td>
+     <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/postgresql-vertical" width="48" height="48" alt="PSQL" />
+      </a>
+      <br>MySQL
+    </td>
   </tr>
  
 </table>
