@@ -10,6 +10,9 @@
 
  </p>
 
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieMonique111&layout=compact&theme=cobalt&hide_border=true" />
+</div>
 
 <hr>
 
@@ -90,10 +93,6 @@
  
 </table>
 <br/>
-
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieMonique111&layout=compact&theme=cobalt&hide_border=true" />
-</div>
 
 <p align="center"
 <a href="https://pugjs.org">
