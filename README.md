@@ -38,13 +38,13 @@
       <br>Docker
       <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>Javascript
     </td>
      <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="Javascript" />
+        <img src="./img/postgresql-vertical.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Postgresql
     </td>
