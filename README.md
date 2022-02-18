@@ -15,13 +15,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/java.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/java.svg" width="48" height="48" alt="Java" />
+        <img src="./img/react-original width="48" height="48" alt="Java" />
       </a>
       <br>React
     </td>
@@ -44,7 +44,7 @@
     </td>
      <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/react-original.svg" width="48" height="48" alt="Javascript" />
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Postgresql
     </td>
