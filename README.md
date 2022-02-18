@@ -59,7 +59,7 @@
       <a href="#macropower-tech" >
         <img src="./img/spring.png" width="48" height="48" alt="Spring" />
       </a>
-      <br>Spring Boot
+      <br>Spring
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
