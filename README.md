@@ -3,14 +3,11 @@
 <h3 align="center"> I am a software developer apprentice. I love to code. I have a passion for learning and technology.</h3>
 <h4 align="center">#Latinx_in_Tech.</h4>
 
-
 <p align="center">
 <a href="https://twitter.com/nataliedev111"><img src="https://img.shields.io/badge/nataliedev111-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/nataliebencomo/"><img src="https://img.shields.io/badge/linkedin/nataliebencomo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
  </p>
-
-
 
 <hr>
 
@@ -20,11 +17,11 @@
       <a href="#macropower-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./img/java.svg" width="48" height="48" alt="Java" />
       </a>
       <br>React
     </td>
@@ -43,11 +40,11 @@
       <a href="#macropower-tech">
         <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>MySQL
+      <br>Javascript
     </td>
      <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/postgresql-vertical.svg" width="48" height="48" alt="PSQL" />
+        <img src="./img/react-original.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Postgresql
     </td>
@@ -99,4 +96,3 @@
 
 <!--
 **NatalieMonique111/NatalieMonique111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
