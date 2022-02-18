@@ -1,6 +1,6 @@
 <h1 align="center" id="macropower-title"><img src="./img/globe.gif" width="100px">Hello World! I'm Natalie.</h1>
 
-<h3 align="center"> I am a software developer apprentice. I love to code. I have a passion for learning and technology.</h3>
+<h3 align="center"> I am a software developer. I’m passionate about coding, love intellectual challenges, eager to learn, and willing to work with a variety of technologies to solve interesting problems. </h3>
 <h4 align="center">#Latinx_in_Tech.</h4>
 
 <p align="center">
