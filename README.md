@@ -4,7 +4,7 @@
 <h4 align="center">#Latinx_in_Tech.</h4>
 
 <p align="center">
-<a href="https://twitter.com/nataliedev111"><img src="https://img.shields.io/badge/nataliedev111-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+
 <a href="https://www.linkedin.com/in/nataliebencomo/"><img src="https://img.shields.io/badge/linkedin/nataliebencomo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
  </p>
