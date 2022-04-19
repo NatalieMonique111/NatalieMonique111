@@ -3,12 +3,6 @@
 <h3 align="center"> I am a software developer. I’m passionate about coding, love intellectual challenges, eager to learn, and willing to work with a variety of technologies to solve interesting problems. </h3>
 <h4 align="center">#Latinx_in_Tech.</h4>
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nataliebencomo/"><img src="https://img.shields.io/badge/linkedin/nataliebencomo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
- </p>
-
 <hr>
 
 <table align="center">
