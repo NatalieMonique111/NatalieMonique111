@@ -55,29 +55,7 @@
       </a>
       <br>Spring
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/html.webp" width="48" height="48" alt="Html" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/css.png" width="48" height="48" alt="Css" />
-      </a>
-      <br>CSS
-      <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass.png" width="48" height="48" alt="Sass" />
-      </a>
-      <br>SaSS
-    </td>
-     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/heroku.png" width="48" height="48" alt="Heroku" />
-      </a>
-      <br>Heroku
-    </td>
+  
   </tr>
  
 </table>
