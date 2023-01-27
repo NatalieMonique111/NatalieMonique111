@@ -36,27 +36,13 @@
       </a>
       <br>Javascript
     </td>
-     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/postgresql-vertical.svg" width="48" height="48" alt="Postgresql" />
-      </a>
-      <br>Postgresql
-    </td>
-     <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/git.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="./img/spring.png" width="48" height="48" alt="Spring" />
       </a>
       <br>Spring
     </td>
-  
-  </tr>
+    </tr>
  
 </table>
 <br/>
