@@ -46,10 +46,6 @@
 </table>
 <br/>
 
-<p align="center"
-<a href="https://pugjs.org">
-<img align="center"src="https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-128.svg" height="100" align="left"></a>
-</p>
 
 <!--
 **NatalieMonique111/NatalieMonique111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
