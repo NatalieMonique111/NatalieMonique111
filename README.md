@@ -1,6 +1,6 @@
 <h1 align="center" id="macropower-title"><img src="./img/globe.gif" width="100px">Hello World! I'm Natalie.</h1>
 
-<h3 align="center"> I am a software developer hobbyist. I love intellectual challenges, eager to learn, and willing to work with a variety of technologies to solve interesting problems. </h3>
+<h3 align="center"> I am a software developer hobbyist. I love intellectual challenges, I am eager to learn, and am willing to work with a variety of technologies to solve interesting problems. </h3>
 
 <hr>
 
